@@ -1,7 +1,5 @@
-# <p align="center">FreDock</p>
-
 <p align="center">
-<img src="Artwork/Logo.png" width="180">
+  <img src="Artwork/Banner.png" alt="FreDock Banner">
 </p>
 
 <p align="center">
