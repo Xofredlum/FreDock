@@ -124,7 +124,7 @@ FreDock detects new buttons automatically.
 
 ---
 
-# Settings
+# Preferences
 
 FreDock currently supports:
 
