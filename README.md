@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-<b>Your lightweight clipboard companion.</b>
+  <strong>Your lightweight clipboard companion.</strong>
+</p>
+
+<p align="center">
+Lightweight • Portable • Open Source
 </p>
 
 <p align="center">
