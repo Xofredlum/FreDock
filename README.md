@@ -135,7 +135,7 @@ FreDock currently supports:
 
 ---
 
-# Project philosophy
+# Philosophy
 
 FreDock follows a simple philosophy.
 
