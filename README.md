@@ -1,4 +1,4 @@
-# <p align="center"> FreDock</p>
+# <p align="center">FreDock</p>
 
 <p align="center">
 <img src="Artwork/Logo.png" width="180">
