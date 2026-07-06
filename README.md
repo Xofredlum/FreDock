@@ -137,7 +137,7 @@ FreDock currently supports:
 
 # Philosophy
 
-FreDock follows a simple philosophy.
+FreDock is built around a simple philosophy:
 
 Keep things lightweight.
 
