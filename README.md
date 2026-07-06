@@ -55,7 +55,7 @@ Just a lightweight companion that is always ready.
 
 ✅ Automatic INI reload
 
-✅ Unlimited clipboard entries
+✅ Unlimited configurable entries
 
 ✅ Dark user interface
 
