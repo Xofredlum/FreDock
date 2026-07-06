@@ -1,6 +1,6 @@
 # FreDock
 
-> Fast • Portable • Lightweight
+> Your lightweight clipboard companion.
 
 A lightweight clipboard companion for Windows.
 
