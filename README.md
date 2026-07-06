@@ -99,11 +99,7 @@ Download the latest release.
 
 Extract the ZIP archive.
 
-Run:
-
-```
-FreDock64.exe
-```
+Run `FreDock64.exe`.
 
 No installation required.
 
