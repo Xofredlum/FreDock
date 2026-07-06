@@ -93,7 +93,7 @@ Just a lightweight companion that is always ready.
 
 ---
 
-## Quick Start
+# Quick Start
 
 1. Download the latest release.
 2. Extract the ZIP archive.
