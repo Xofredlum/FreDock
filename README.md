@@ -93,15 +93,12 @@ Just a lightweight companion that is always ready.
 
 ---
 
-# Installation
+## Quick Start
 
-Download the latest release.
-
-Extract the ZIP archive.
-
-Run `FreDock64.exe`.
-
-No installation required.
+1. Download the latest release.
+2. Extract the ZIP archive.
+3. Run `FreDock64.exe`.
+4. You're ready to go!
 
 ---
 
