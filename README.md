@@ -1,9 +1,11 @@
 # FreDock
 
-A lightweight clipboard companion for Windows.
+> Fast • Portable • Lightweight
+
+A lightweight clipboard companion for Windows
 
 Made with ❤️ using AutoHotkey v2.
 
 Designed and maintained by **Xofredlum**.
 
-Developed in collaboration with **ChatGPT (OpenAI)**.
+Created by Xofredlum with ChatGPT (OpenAI).
