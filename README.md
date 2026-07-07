@@ -87,7 +87,7 @@ Just a lightweight companion that's always ready.
 
 ## Main Window
 
-![Main Window](Artwork/Screenshot_Normal.png)
+![Main Window](Artwork/Screenshot_Main.png)
 
 ---
 
