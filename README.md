@@ -1,6 +1,13 @@
 <p align="center">
   <img src="Artwork/Banner.png" alt="FreDock Banner">
 </p>
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)
+
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-green)
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+![Version](https://img.shields.io/badge/Version-1.3.0-orange)
 
 <h1 align="center">FreDock</h1>
 
