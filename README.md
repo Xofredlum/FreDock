@@ -15,6 +15,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Release%20Candidate-orange?style=for-the-badge)
 
+![Philosophy](https://img.shields.io/badge/Keep-It%20Simple-5DB7FF?style=for-the-badge)
+
 
 <h1 align="center">FreDock</h1>
 
