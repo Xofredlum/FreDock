@@ -65,7 +65,7 @@ Many excellent tools already exist for those purposes.
 
 FreDock focuses on one thing:
 
-> **Fast access to your most frequently used text.**
+> **Simple tools are often the ones we use every day.**
 
 ---
 
