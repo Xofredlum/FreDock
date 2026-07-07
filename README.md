@@ -91,15 +91,15 @@ Just a lightweight companion that's always ready.
 
 ---
 
-## Visual Button Editor (NEW)
+## Edit Mode (NEW)
 
-![Editor](Artwork/Screenshot_Editor.png)
+![Edit Mode](Artwork/Screenshot_Visual.png)
 
 ---
 
-## Settings
+## Visual Button Editor
 
-![Settings](Artwork/Screenshot_Visual.png)
+![Visual Button Editor](Artwork/Screenshot_Editor.png)
 
 ---
 
