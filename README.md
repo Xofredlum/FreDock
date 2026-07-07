@@ -87,7 +87,7 @@ Just a lightweight companion that's always ready.
 
 ## Main Window
 
-![Main Window](Artwork/Screenshot_Main.png)
+![Main Window](Artwork/Screenshot_Normal.png)
 
 ---
 
@@ -99,7 +99,7 @@ Just a lightweight companion that's always ready.
 
 ## Settings
 
-![Settings](Artwork/Screenshot_Settings.png)
+![Settings](Artwork/Screenshot_Visual.png)
 
 ---
 
