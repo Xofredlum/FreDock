@@ -1,6 +1,20 @@
 <p align="center">
   <img src="Artwork/Banner.png" alt="FreDock Banner">
 </p>
+<p align="center">
+
+![Version](https://img.shields.io/github/v/release/Xofredlum/FreDock?style=for-the-badge)
+
+![Downloads](https://img.shields.io/github/downloads/Xofredlum/FreDock/total?style=for-the-badge)
+
+![License](https://img.shields.io/github/license/Xofredlum/FreDock?style=for-the-badge)
+
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)
+
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-334455?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Release%20Candidate-orange?style=for-the-badge)
+
 
 <h1 align="center">FreDock</h1>
 
