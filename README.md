@@ -2,8 +2,10 @@
   <img src="Artwork/Banner.png" alt="FreDock Banner">
 </p>
 
+<h1 align="center">FreDock</h1>
+
 <p align="center">
-  <strong>Your lightweight clipboard companion.</strong>
+<b>A lightweight visual clipboard launcher for Windows.</b>
 </p>
 
 <p align="center">
@@ -12,15 +14,25 @@ Lightweight • Portable • Open Source
 
 <p align="center">
 
-A lightweight clipboard companion for Windows.
+Made with ❤️ using AutoHotkey v2
 
-Made with ❤️ using AutoHotkey v2.
+Designed and maintained by <b>Xofredlum</b>
 
-Designed and maintained by **Xofredlum**.
-
-Created by **Xofredlum** with the assistance of **ChatGPT (OpenAI)**.
+Created with the assistance of <b>ChatGPT (OpenAI)</b>
 
 </p>
+
+---
+
+# ⭐ New in Version 1.3
+
+## Visual Button Editor
+
+FreDock now lets you edit, create and delete clipboard buttons directly from the interface.
+
+No manual INI editing required.
+
+Simply click **Edit**, modify your buttons, then click **✔ Done**.
 
 ---
 
@@ -28,16 +40,16 @@ Created by **Xofredlum** with the assistance of **ChatGPT (OpenAI)**.
 
 FreDock was born from a simple idea.
 
-Many of us copy the same pieces of text dozens of times every day:
+Most of us copy the same information dozens of times every day.
 
-- email addresses
-- passwords
+- Email addresses
+- Passwords
 - URLs
-- customer information
-- templates
-- code snippets
+- Customer information
+- Templates
+- Code snippets
 
-FreDock keeps your most frequently used text snippets one click away.
+FreDock keeps everything just one click away.
 
 No installation.
 
@@ -45,41 +57,37 @@ No cloud.
 
 No database.
 
-Just a lightweight companion that is always ready.
+Just a lightweight companion that's always ready.
 
 ---
 
 # Features
 
-✅ Unlimited configurable buttons
-
-✅ Portable (no installation required)
-
-✅ Automatic INI reload
-
-✅ Unlimited configurable entries
-
-✅ Dark user interface
-
-✅ Window position memory
-
-✅ Always-on-top mode
-
-✅ Snap window positions
-
-✅ Built-in Settings dialog
-
-✅ Splash screen
-
-✅ Lightweight and fast
+- ✅ Visual Button Editor (NEW)
+- ✅ Unlimited configurable buttons
+- ✅ Portable (no installation required)
+- ✅ Automatic INI reload
+- ✅ Dark user interface
+- ✅ Window position memory
+- ✅ Always-on-top mode
+- ✅ Snap positions
+- ✅ Built-in Settings dialog
+- ✅ Splash screen
+- ✅ Lightweight and fast
 
 ---
 
 # Screenshots
 
-## Main window
+## Main Window
 
 ![Main Window](Artwork/Screenshot_Main.png)
+
+---
+
+## Visual Button Editor (NEW)
+
+![Editor](Artwork/Screenshot_Editor.png)
 
 ---
 
@@ -99,16 +107,16 @@ Just a lightweight companion that is always ready.
 
 1. Download the latest release.
 2. Extract the ZIP archive.
-3. Run `FreDock64.exe`.
-4. You're ready to go!
+3. Run **FreDock64.exe**.
+4. Start copying smarter.
 
 ---
 
 # Configuration
 
-FreDock uses a simple INI configuration file.
+FreDock stores its configuration inside a simple INI file.
 
-Example:
+Advanced users can still edit the file manually if desired.
 
 ```ini
 [Button1]
@@ -120,15 +128,13 @@ Name=Website
 Text=https://github.com
 ```
 
-Add as many buttons as you like.
-
-FreDock detects new buttons automatically.
+Changes are automatically detected and reloaded.
 
 ---
 
 # Preferences
 
-FreDock currently supports:
+FreDock supports:
 
 - Sound notifications
 - Always-on-top mode
@@ -139,29 +145,24 @@ FreDock currently supports:
 
 # Philosophy
 
-FreDock is built around a simple philosophy:
+FreDock is built around a simple idea.
 
-Keep things lightweight.
+> **Simple to use. Powerful when you need it.**
 
-Keep things fast.
+The Visual Button Editor makes FreDock accessible to everyone.
 
-Keep things portable.
-
-Do one thing…
-
-Do it well.
+The INI file remains available for advanced users.
 
 ---
 
 # Roadmap
 
-Future ideas include:
+Ideas currently under consideration:
 
-- Search
-- Categories
-- Favorites
-- Drag & Drop editor
-- Graphical button editor
+- 🔍 Search
+- 📂 Categories
+- ⭐ Favorites
+- 🔀 Drag & Drop button reordering
 
 Suggestions are always welcome.
 
@@ -169,7 +170,7 @@ Suggestions are always welcome.
 
 # Contributing
 
-Bug reports, feature requests and pull requests are welcome.
+Bug reports, feature requests and pull requests are always welcome.
 
 Please help keep FreDock lightweight, portable and easy to use.
 
@@ -177,7 +178,7 @@ Please help keep FreDock lightweight, portable and easy to use.
 
 # License
 
-This project is released under the MIT License.
+Released under the MIT License.
 
 ---
 
@@ -191,6 +192,6 @@ Developed with the assistance of **ChatGPT (OpenAI)**.
 
 <p align="center">
 
-⭐ If you find FreDock useful, consider giving this project a star.
+⭐ If you enjoy FreDock, consider giving the project a Star!
 
 </p>
