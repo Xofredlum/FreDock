@@ -171,6 +171,8 @@ Every star helps the project grow.
 
 <p align="center">
 
-Made with ❤️, coffee ☕ and a few virtual pizzas 🍕
+Made with ❤️ by Xofredlum
+
+Built with the help of ChatGPT
 
 </p>
