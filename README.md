@@ -178,3 +178,7 @@ Made with ❤️ by Xofredlum
 Built with the help of ChatGPT
 
 </p>
+
+FreDock wasn't built to be the biggest clipboard tool.
+
+It was built to be the one you'll enjoy using every day.
