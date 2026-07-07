@@ -1,4 +1,33 @@
+# ============================================================
+# FreDock
+# Git Ignore
+# ============================================================
+
+# AutoHotkey compiler output
+*.exe
+
+# Archives
+*.zip
+*.7z
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Windows
 Thumbs.db
 Desktop.ini
-*.bak
-*.tmp
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# User configuration (generated automatically)
+FreDock.ini
+
+# ============================================================
