@@ -11,7 +11,9 @@
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)
 
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2-334455?style=for-the-badge)
+![Portable](https://img.shields.io/badge/Portable-No%20Installation-success?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)
 
 ![Status](https://img.shields.io/badge/Status-Release%20Candidate-orange?style=for-the-badge)
 
